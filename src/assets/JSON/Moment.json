@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "title": "桃園科學展覽會-應用科學主題區報導",
+        "content": "這是活動中最引人注目的時刻。",
+        "img": "https://picsum.photos/id/230/300/310",
+        "link": "https://example.com/detail5"
+    },
+    {
+        "id": "2",
+        "title": "校園特色展示攤位",
+        "content": "這是一個令人難忘的瞬間。",
+        "img": "https://picsum.photos/id/130/300/310",
+        "link": "https://example.com/detail2"
+    },
+    {
+        "id": "3",
+        "title": "台灣火箭技術進步迅速，TASA未來發展藍圖揭曉",
+        "content": "不容錯過的美好片段。",
+        "img": "https://picsum.photos/id/258/300/300",
+        "link": "https://example.com/detail2"
+    },
+    {
+        "id": "4",
+        "title": "古今桃園科學之旅-兒童科學教育館篇",
+        "content": "這是一個令人難忘的瞬間。",
+        "img": "https://picsum.photos/id/255/300/300",
+        "link": "https://example.com/detail4"
+    },
+    {
+        "id": "5",
+        "title": "動手做科學體驗區",
+        "content": "吸引大量親子參與，透過實驗感受科學的趣味與奧妙，孩子們動手操作、驚呼連連，家長也在旁熱心協助，現場充滿歡樂與學習的聲音。",
+        "img": "https://picsum.photos/id/125/300/300",
+        "link": "https://example.com/detail2"
+    },
+    {
+        "id": "6",
+        "title": "現場直播互動問答",
+        "content": "觀眾可透過手機提問，與參展學生進行即時交流，科技輔助互動讓現場與線上觀眾都能參與其中，增添活動多元性。",
+        "img": "https://picsum.photos/id/162/300/310",
+        "link": "https://example.com/detail2"
+    },
+    {
+        "id": "7",
+        "title": "觀摩交流時間",
+        "content": "參展學生與來訪學校互相交流彼此研究經驗，透過互動提問與作品欣賞，激盪出更多想法與合作可能性。",
+        "img": "https://picsum.photos/id/100/300/310",
+        "link": "https://example.com/detail2"
+    },
+    {
+        "id": "8",
+        "title": "得獎作品展示，第66屆全國中小學科學展覽會得獎作品展示，歡迎全國民眾前往欣賞",
+        "content": "這是一個令人難忘的瞬間。",
+        "img": "https://picsum.photos/id/132/300/310",
+        "link": "https://example.com/detail2"
+    },
+    {
+        "id": "9",
+        "title": "專家導覽時段",
+        "content": "由科學家與教授親自講解展品，提升參觀者理解深度，透過專業引導讓大家更深入認識每個主題背後的理論與應用價值。由科學家與教授親自講解展品，提升參觀者理解深度，透過專業引導讓大家更深入認識每個主題背後的理論與應用價值。",
+        "img": "https://picsum.photos/id/136/300/310",
+        "link": "https://example.com/detail2"
+    }
+]

@@ -1,0 +1,111 @@
+{
+    "TotalCount": "100",
+    "MaxPage": "5",
+    "DataList": [
+        {
+            "Title": "有關第66屆全國科展科學博覽會拾獲物品領回方式公告。",
+            "ID": "001",
+            "StartTime": "2025-03-14",
+            "EndTime": "2025-09-10",
+            "Create": "資訊組",
+            "Category": "最新公告",
+            "Content": "<figure class=\"image\"><img style=\"aspect-ratio:225/225;\" src=\"data:image/jpeg;base64,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\" width=\"225\" height=\"225\"></figure><p>一、66屆全國科展博覽會拾獲物品清單如附件，遺失人員請洽南寧高中領回。聯絡方式：06-2622458#27 湯組長。\n\n二、認領期限：請於8月19日前認領，逾期將由校方代為處理。</p>",
+            "Top": true,
+            "Enabled": true,
+            "Identities": [
+                1
+            ],
+            "FilesList": [
+                {
+                    "id": "0001",
+                    "RealFileName": "file123.pdf",
+                    "SystemFileName": "546841213585"
+                }
+            ]
+        },
+        {
+            "Title": "第66屆全國科展遺失物公告。",
+            "ID": "002",
+            "StartTime": "2025-03-14",
+            "EndTime": "2025-09-10",
+            "Create": "資訊組",
+            "Category": "最新公告",
+            "Content": "<p>一、本次博覽會期間拾獲的物品請參考附件清單，失主請於期限內聯繫辦公室領回。聯絡方式：06-2622458#28 王老師。&nbsp;</p><p>二、認領期限：請於8月20日前認領，逾期將由相關單位代為處理。</p>",
+            "Top": false,
+            "Enabled": true,
+            "Identities": [
+                2
+            ],
+            "FilesList": [
+                {
+                    "id": "0002",
+                    "RealFileName": "lost_and_found_list.pdf",
+                    "SystemFileName": "786451223785"
+                }
+            ]
+        },
+        {
+            "Title": "拾獲物品公告—第66屆全國科展。",
+            "ID": "003",
+            "StartTime": "2025-03-14",
+            "EndTime": "2025-09-10",
+            "Create": "資訊組",
+            "Category": "最新公告",
+            "Content": "<p>一、在博覽會期間遺失的物品請參考附件並聯繫學校辦公室認領。聯絡方式：06-2622458#29 李主任。\n\n二、認領期限：請於8月21日前完成領取，逾期不再受理。</p>",
+            "Top": true,
+            "Enabled": true,
+            "Identities": [
+                3
+            ],
+            "FilesList": [
+                {
+                    "id": "0003",
+                    "RealFileName": "found_items.pdf",
+                    "SystemFileName": "651232547689"
+                }
+            ]
+        },
+        {
+            "Title": "66屆科展拾獲物品公告。",
+            "ID": "004",
+            "StartTime": "2025-03-14",
+            "EndTime": "2025-09-10",
+            "Create": "資訊組",
+            "Category": "最新公告",
+            "Content": "<p>一、拾獲的物品清單如附件所示，請遺失人員儘速洽辦公室領回。聯絡方式：06-2622458#30 林助教。\n\n二、認領期限：截止日期為8月22日，逾期不再處理。</p>",
+            "Top": false,
+            "Enabled": true,
+            "Identities": [
+                4
+            ],
+            "FilesList": [
+                {
+                    "id": "0004",
+                    "RealFileName": "retrieved_items.pdf",
+                    "SystemFileName": "124578965478"
+                }
+            ]
+        },
+        {
+            "Title": "第66屆全國科展遺失物品清單公告。",
+            "ID": "005",
+            "StartTime": "2025-03-14",
+            "EndTime": "2025-09-10",
+            "Create": "資訊組",
+            "Category": "最新公告",
+            "Content": "<p>一、遺失物品清單見附件，請失主於期限內認領。聯絡方式：06-2622458#31 吳主任。\n\n二、認領截止日期：8月23日，逾期未領將統一處理。</p>",
+            "Top": true,
+            "Enabled": true,
+            "Identities": [
+                5
+            ],
+            "FilesList": [
+                {
+                    "id": "0005",
+                    "RealFileName": "items_to_claim.pdf",
+                    "SystemFileName": "987654321789"
+                }
+            ]
+        }
+    ]
+}

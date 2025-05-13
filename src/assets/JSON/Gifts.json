@@ -1,0 +1,937 @@
+{
+    "TotalCount": 133,
+    "MaxPage": 5,
+    "DataList": [
+        {
+            "id": 1,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "臺灣菸酒股份有限公司桃園酒廠",
+            "Name": "玉泉極品紅麴葡萄酒"
+        },
+        {
+            "id": 2,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "正記中崎本舖",
+            "Name": "布丁蛋糕禮盒"
+        },
+        {
+            "id": 3,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "立義食品有限公司",
+            "Name": "知味花生軟糖"
+        },
+        {
+            "id": 4,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "素寶?",
+            "Name": "中壢名產肚臍餅"
+        },
+        {
+            "id": 5,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "郭記名點",
+            "Name": "(更名)桃園鳳梨酥禮盒"
+        },
+        {
+            "id": 6,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "郭祿食品有限公司",
+            "Name": "月靜禮盒"
+        },
+        {
+            "id": 7,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "大房食品股份有限公司",
+            "Name": "國寶級豆干大師禮組(手工烏豆干)"
+        },
+        {
+            "id": 8,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "萬里香豆干",
+            "Name": "陳年紅糟豆腐乳"
+        },
+        {
+            "id": 9,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "阿枝生技蜂蜜有限公司",
+            "Name": "蜂蜜黑心肝"
+        },
+        {
+            "id": 10,
+            "Year": 97,
+            "Category": "食品類",
+            "Company": "龍情花生",
+            "Name": "龍情花生軟糖禮盒"
+        },
+        {
+            "id": 11,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "郭記名點",
+            "Name": "生銅鑼燒"
+        },
+        {
+            "id": 12,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "復興空廚",
+            "Name": "如意柿禮盒"
+        },
+        {
+            "id": 13,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "?義美觀光工廠",
+            "Name": "(停產)義美\"桃園之美\"禮盒"
+        },
+        {
+            "id": 14,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "臺灣菸酒股份有限公司桃園酒廠",
+            "Name": "紅麴養生薄餅"
+        },
+        {
+            "id": 15,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "澄豐食品有限公司",
+            "Name": "手中捲（楓糖、咖啡）"
+        },
+        {
+            "id": 16,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "正記中崎本舖",
+            "Name": "中崎布丁蛋糕"
+        },
+        {
+            "id": 17,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "黃日香股份有限公司",
+            "Name": "豆干精緻禮盒"
+        },
+        {
+            "id": 18,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "中祥食品有限公司",
+            "Name": "自然之顏綜合禮盒"
+        },
+        {
+            "id": 19,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "桃園市農會",
+            "Name": " (更名) 金舞滂禮盒"
+        },
+        {
+            "id": 20,
+            "Year": 98,
+            "Category": "食品類",
+            "Company": "郭祿食品有限公司",
+            "Name": "台灣情牛軋糖禮盒"
+        },
+        {
+            "id": 21,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "新珍香餅舖",
+            "Name": "新珍香花生酥糖"
+        },
+        {
+            "id": 22,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "郭祿食品有限公司",
+            "Name": "溫馨禮盒"
+        },
+        {
+            "id": 23,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "美德糕餅舖",
+            "Name": "黃金千層蛋糕"
+        },
+        {
+            "id": 24,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "磊園活魚餐廳",
+            "Name": "草魚XO醬"
+        },
+        {
+            "id": 25,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "阿枝生技蜂蜜有限公司",
+            "Name": "六六大順禮盒(五星級野生蜜、公母冬蜜)"
+        },
+        {
+            "id": 26,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "臺灣菸酒股份有限公司桃園酒廠",
+            "Name": "玉泉極品紅麴葡萄酒禮盒"
+        },
+        {
+            "id": 27,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "大房食品股份有限公司",
+            "Name": "大房幸福桃花園禮盒"
+        },
+        {
+            "id": 28,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "大園區良質米產銷班第一班?",
+            "Name": "大賀囍米"
+        },
+        {
+            "id": 29,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "正記中崎本舖",
+            "Name": "中崎布丁蛋糕"
+        },
+        {
+            "id": 30,
+            "Year": 99,
+            "Category": "食品類",
+            "Company": "復興空廚股份有限公司",
+            "Name": "如意柿禮盒"
+        },
+        {
+            "id": 31,
+            "Year": 99,
+            "Category": "評審團獎",
+            "Company": "?河堤小館",
+            "Name": "創意牛禮盒"
+        },
+        {
+            "id": 32,
+            "Year": 99,
+            "Category": "最佳創意獎",
+            "Company": "台灣京瓷企業社",
+            "Name": "釉之花絮(情人對碗)"
+        },
+        {
+            "id": 33,
+            "Year": 99,
+            "Category": "最佳造型獎",
+            "Company": "屏榮食品股份有限公司",
+            "Name": "洛菲爾俄羅斯軟糖禮盒"
+        },
+        {
+            "id": 34,
+            "Year": 99,
+            "Category": "最佳在地特色獎",
+            "Company": "麗揚工作室",
+            "Name": "與客結緣"
+        },
+        {
+            "id": 35,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "臺灣鳳月堂有限公司",
+            "Name": "烤甜甜圈禮盒"
+        },
+        {
+            "id": 36,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "義美食品(股)公司",
+            "Name": "桃園美讚-核棗糕禮盒"
+        },
+        {
+            "id": 37,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "新屋區農會",
+            "Name": "食尚好米禮盒"
+        },
+        {
+            "id": 38,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "復興空廚(股)公司",
+            "Name": "如意柿禮盒"
+        },
+        {
+            "id": 39,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "桑葚緣觀光果園",
+            "Name": "桑葚蜜餞-提盒組"
+        },
+        {
+            "id": 40,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "金格食品(股)公司桃園廠",
+            "Name": "(停產)長崎蜜桃香蛋糕禮盒"
+        },
+        {
+            "id": 41,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "田園榖類風味坊",
+            "Name": "龍泉茶牛軋糖"
+        },
+        {
+            "id": 42,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "生生圓大飯店",
+            "Name": "阿太客家豬腳"
+        },
+        {
+            "id": 43,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "大園區良質米產銷第一班",
+            "Name": "大賀香米"
+        },
+        {
+            "id": 44,
+            "Year": 100,
+            "Category": "食品類",
+            "Company": "大房食品股份有限公司",
+            "Name": "大房幸福桃花園禮組"
+        },
+        {
+            "id": 45,
+            "Year": 101,
+            "Category": "金讚獎",
+            "Company": "大房食品股份有限公司",
+            "Name": "大房幸福桃花園禮組 "
+        },
+        {
+            "id": 46,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "大園區良質米產銷班第一班",
+            "Name": "大賀米滿"
+        },
+        {
+            "id": 47,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "宏亞食品",
+            "Name": "(停產)巧諦可蒂巧克力醬禮盒"
+        },
+        {
+            "id": 48,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "臺灣菸酒股份有限公司桃園酒廠",
+            "Name": "(停產)台酒清酒酵母果穀脆片"
+        },
+        {
+            "id": 49,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "美德糕餅舖",
+            "Name": "八塊餅"
+        },
+        {
+            "id": 50,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "香草蛋糕鋪",
+            "Name": "月光寶盒"
+        },
+        {
+            "id": 51,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "郭元益食品",
+            "Name": "郭元益雪波果子露"
+        },
+        {
+            "id": 52,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "郭記名點",
+            "Name": "風阻尼波士頓派"
+        },
+        {
+            "id": 53,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "郭祿食品有限公司",
+            "Name": "土地公禮盒"
+        },
+        {
+            "id": 54,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "跑平豬腳",
+            "Name": "中壢名產跑平豬腳禮盒"
+        },
+        {
+            "id": 55,
+            "Year": 101,
+            "Category": "食品類",
+            "Company": "新屋區農會",
+            "Name": "樂禾趣禮盒"
+        },
+        {
+            "id": 56,
+            "Year": 102,
+            "Category": "創意生活組",
+            "Company": "麗揚工作室",
+            "Name": "衣依桐花(迷你藍衫+桐花胸針)"
+        },
+        {
+            "id": 57,
+            "Year": 102,
+            "Category": "創意生活組",
+            "Company": "達能工作室",
+            "Name": "上家下屋:天然手工皂禮盒"
+        },
+        {
+            "id": 58,
+            "Year": 102,
+            "Category": "創意生活組",
+            "Company": "紫竹林國際事業有限公司",
+            "Name": "蘆薈草本香氛禮盒"
+        },
+        {
+            "id": 59,
+            "Year": 102,
+            "Category": "文化工藝組",
+            "Company": "麗揚工作室",
+            "Name": "與客結緣(花布陶藝紀念品)"
+        },
+        {
+            "id": 60,
+            "Year": 102,
+            "Category": "文化工藝組",
+            "Company": "台灣京瓷(千塘窯)",
+            "Name": "千塘銀河對碗"
+        },
+        {
+            "id": 61,
+            "Year": 102,
+            "Category": "文化工藝組",
+            "Company": "莎呦藝品企業有限公司",
+            "Name": "泰雅勇士領帶"
+        },
+        {
+            "id": 62,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "紫竹林國際事業有限公司",
+            "Name": "絕代雙膠養生露"
+        },
+        {
+            "id": 63,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "向記食品有限公司",
+            "Name": "向記XO醬禮盒組"
+        },
+        {
+            "id": 64,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "維穀力",
+            "Name": "維穀力養生多穀擂茶粉"
+        },
+        {
+            "id": 65,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "福壽山茶葉有限公司",
+            "Name": "拉拉山高山茶"
+        },
+        {
+            "id": 66,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "美德糕餅舖",
+            "Name": "八德名產「八塊餅」"
+        },
+        {
+            "id": 67,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "紫蝶花影",
+            "Name": "黃金鳳梨酥"
+        },
+        {
+            "id": 68,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "超秦企業(Real歐式典藏烘焙坊)",
+            "Name": "(停產)桃園臻幸福方盒"
+        },
+        {
+            "id": 69,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "德成養蜂場",
+            "Name": "黃金富貴組禮盒"
+        },
+        {
+            "id": 70,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "大園區良質米產銷班第一班",
+            "Name": "大賀米滿"
+        },
+        {
+            "id": 71,
+            "Year": 102,
+            "Category": "食品組",
+            "Company": "大房食品股份有限公司",
+            "Name": "大房紫蝶禮盒組"
+        },
+        {
+            "id": 72,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "嚐趣壽喜屋",
+            "Name": "桃園升格感溫變色杯"
+        },
+        {
+            "id": 73,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "蕃薯藤有限公司",
+            "Name": "蕃薯藤天然手工皂"
+        },
+        {
+            "id": 74,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "歐萊德國際股份有限公司",
+            "Name": "錦上添花—桃花洗沐紀念組"
+        },
+        {
+            "id": 75,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "聚紡股份有限公司",
+            "Name": "多功能會呼吸布花盆"
+        },
+        {
+            "id": 76,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "誠炫企業有限公司(子月創作坊)",
+            "Name": "油桐花詩詞賞作、牡丹花詩詞賞作"
+        },
+        {
+            "id": 77,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "湘詒服飾",
+            "Name": "陽明一街實驗工坊 文創明信片組"
+        },
+        {
+            "id": 78,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "彩藝創作藝術坊",
+            "Name": "戀上桃花緣~MP藝術皂"
+        },
+        {
+            "id": 79,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "秘丞手作工坊",
+            "Name": "茶古皂"
+        },
+        {
+            "id": 80,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "亦然手工皂",
+            "Name": "桃荷您心禮盒"
+        },
+        {
+            "id": 81,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "台灣京瓷－千塘窯",
+            "Name": "千塘‧啟"
+        },
+        {
+            "id": 82,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "天下奇冰冰店",
+            "Name": "桃都碩果˙慶讚飛揚"
+        },
+        {
+            "id": 83,
+            "Year": 103,
+            "Category": "非食品組",
+            "Company": "Lamigo桃猿棒球隊",
+            "Name": "Lamigo桃猿棒球隊 升格紀念商品組"
+        },
+        {
+            "id": 84,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "臺灣菸酒股份有限公司桃園酒廠",
+            "Name": "(停產)玉泉黃金純米吟釀清酒 桃園起飛"
+        },
+        {
+            "id": 85,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "義美食品股份有限公司",
+            "Name": "桃園之美飛揚禮盒"
+        },
+        {
+            "id": 86,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "紫竹林國際事業有限公司",
+            "Name": "絕代雙驕養生露"
+        },
+        {
+            "id": 87,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "清合醬菜館",
+            "Name": "豆腐乳、蕎頭、醃菜"
+        },
+        {
+            "id": 88,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "復興空廚",
+            "Name": "柿外桃園"
+        },
+        {
+            "id": 89,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "國展茗茶商行",
+            "Name": "有機綠茶\/有機包種茶\/有機烏龍茶\n有機東方美人茶\/有機紅茶"
+        },
+        {
+            "id": 90,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "美德糕餅舖",
+            "Name": "八德名產「八塊餅」"
+        },
+        {
+            "id": 91,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "?美得食品有限公司",
+            "Name": "桃園名產「桃起酥」"
+        },
+        {
+            "id": 92,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "?阿枝蜂蜜",
+            "Name": "聽的蜂蜜"
+        },
+        {
+            "id": 93,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "阿美米干",
+            "Name": "雲南米蛋糕"
+        },
+        {
+            "id": 94,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "向記食品有限公司",
+            "Name": "吻魚XO醬禮盒組"
+        },
+        {
+            "id": 95,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "台灣區蜜寶貝蜜蜂產品運銷合作社",
+            "Name": "六六大順禮盒"
+        },
+        {
+            "id": 96,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "天下奇冰冰店",
+            "Name": "桃園飛揚˙荷運蓮連"
+        },
+        {
+            "id": 97,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "大溪區良質米產銷班第一班",
+            "Name": "添壽米"
+        },
+        {
+            "id": 98,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "大園區良質米產銷班第一班?",
+            "Name": "大賀米滿"
+        },
+        {
+            "id": 99,
+            "Year": 103,
+            "Category": "食品組",
+            "Company": "大房食品股份有限公司",
+            "Name": "大房陶璽甕"
+        },
+        {
+            "id": 100,
+            "Year": 104,
+            "Category": "非食品組",
+            "Company": "阿媽牌生鐵鍋",
+            "Name": "30cm深平手工鐵炒鍋"
+        },
+        {
+            "id": 101,
+            "Year": 104,
+            "Category": "非食品組",
+            "Company": "莎呦藝術坊",
+            "Name": "祖靈之愛-長夾零錢包"
+        },
+        {
+            "id": 102,
+            "Year": 104,
+            "Category": "非食品組",
+            "Company": "秘丞手作工坊",
+            "Name": "天然絲瓜絡系列手工皂"
+        },
+        {
+            "id": 103,
+            "Year": 104,
+            "Category": "非食品組",
+            "Company": "妮可設計工作室",
+            "Name": "樂桃仔園"
+        },
+        {
+            "id": 104,
+            "Year": 104,
+            "Category": "非食品組",
+            "Company": "佳龍科技工程股份有限公司",
+            "Name": "台灣藍鵲"
+        },
+        {
+            "id": 105,
+            "Year": 104,
+            "Category": "非食品組",
+            "Company": "大房食品股份有限公司",
+            "Name": "陶璽甕"
+        },
+        {
+            "id": 106,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "大溪拿破崙派",
+            "Name": "拿破崙派"
+        },
+        {
+            "id": 107,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "承恩文創國際有限公司",
+            "Name": "找碴.找茶_拉拉山雲上茶 精祚禮盒"
+        },
+        {
+            "id": 108,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "芊香園工作室",
+            "Name": "香不辣－蒜酥辣醬"
+        },
+        {
+            "id": 109,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "竹峰茗茶",
+            "Name": "相思炭焙茶"
+        },
+        {
+            "id": 110,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "大房食品股份有限公司",
+            "Name": "豆干大師禮組"
+        },
+        {
+            "id": 111,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "清合醬菜館",
+            "Name": "緬甸蝦醬"
+        },
+        {
+            "id": 112,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "豐實農場",
+            "Name": "有機仙草乾"
+        },
+        {
+            "id": 113,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "宏旺食品有限公司",
+            "Name": "杏福桃仔園"
+        },
+        {
+            "id": 114,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "鼎太公食品",
+            "Name": "紅麴滷味"
+        },
+        {
+            "id": 115,
+            "Year": 104,
+            "Category": "食品組",
+            "Company": "拉拉山小吃店(海萍茶園)",
+            "Name": "水蜜桃茶酥"
+        },
+        {
+            "id": 116,
+            "Year": 105,
+            "Category": "非食品組",
+            "Company": "阿嬤牌生鐵鍋(晏鼎企業社)",
+            "Name": "阿嬤牌生鐵鍋-園滿平安手工鐵鍋組"
+        },
+        {
+            "id": 117,
+            "Year": 105,
+            "Category": "非食品組",
+            "Company": "達能工作室",
+            "Name": "上家下屋-天然手工皂"
+        },
+        {
+            "id": 118,
+            "Year": 105,
+            "Category": "非食品組",
+            "Company": "菲兒麗貝創布工作坊",
+            "Name": "幸運餅包"
+        },
+        {
+            "id": 119,
+            "Year": 105,
+            "Category": "非食品組",
+            "Company": "愛地球木工坊",
+            "Name": "藝術時尚筆"
+        },
+        {
+            "id": 120,
+            "Year": 105,
+            "Category": "非食品組",
+            "Company": "千塘窯藝術文創有限公司",
+            "Name": "千禧京華"
+        },
+        {
+            "id": 121,
+            "Year": 105,
+            "Category": "非食品組",
+            "Company": "春稻企業股份有限公司",
+            "Name": "「花卉 戲舞」"
+        },
+        {
+            "id": 122,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "恒鼎食品股份有限公司",
+            "Name": "桃喜好禮"
+        },
+        {
+            "id": 123,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "大房食品股份有限公司",
+            "Name": "大房豆干大師禮組"
+        },
+        {
+            "id": 124,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "大公雞烤雞燉雞-大呼奇雞食品有限公司",
+            "Name": "桃園奇雞-風味小土雞"
+        },
+        {
+            "id": 125,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "義美食品觀光工廠",
+            "Name": "台灣名點-桃園糕禮盒"
+        },
+        {
+            "id": 126,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "益康美食館",
+            "Name": "益康-黃金泡菜"
+        },
+        {
+            "id": 127,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "大溪老茶廠",
+            "Name": "大溪-青心甘綠茶+蜜香紅茶禮盒"
+        },
+        {
+            "id": 128,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "?霖茶莊",
+            "Name": "秀才紅茶禮盒"
+        },
+        {
+            "id": 129,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "向記",
+            "Name": "向記閃醬系列-薑黃蝦醬"
+        },
+        {
+            "id": 130,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "豆之家食品科技股份有限公司",
+            "Name": "翠?子-綜合米?"
+        },
+        {
+            "id": 131,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "心蘭活魚",
+            "Name": "魚鱗膠原果凍"
+        },
+        {
+            "id": 132,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "柚子花花青春客家",
+            "Name": "三隻小豬"
+        },
+        {
+            "id": 133,
+            "Year": 105,
+            "Category": "食品組",
+            "Company": "基富食品有限公司",
+            "Name": "粽王(南部粽、北部粽)"
+        }
+    ]
+}

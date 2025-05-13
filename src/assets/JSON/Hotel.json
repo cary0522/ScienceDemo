@@ -1,0 +1,146 @@
+{
+    "TotalCount": "200",
+    "MaxPage": "2",
+    "DataList": [
+        {
+            "Category": "旅館",
+            "Area": "新屋區",
+            "Name": "住宿點1",
+            "Address": "桃園市龜山區XX路25號",
+            "Phone": "03-2767948"
+        },
+        {
+            "Category": "特色民宿",
+            "Area": "龜山區",
+            "Name": "住宿點2",
+            "Address": "桃園市大園區XX路66號",
+            "Phone": "03-2410254"
+        },
+        {
+            "Category": "特色民宿",
+            "Area": "大溪區",
+            "Name": "住宿點3",
+            "Address": "桃園市新屋區XX路29號",
+            "Phone": "03-2566639"
+        },
+        {
+            "Category": "特色民宿",
+            "Area": "觀音區",
+            "Name": "住宿點4",
+            "Address": "桃園市大園區XX路41號",
+            "Phone": "03-2327933"
+        },
+        {
+            "Category": "旅館",
+            "Area": "中壢區",
+            "Name": "住宿點5",
+            "Address": "桃園市龜山區XX路32號",
+            "Phone": "03-2855991"
+        },
+        {
+            "Category": "民宿",
+            "Area": "大園區",
+            "Name": "住宿點6",
+            "Address": "桃園市觀音區XX路18號",
+            "Phone": "03-2229422"
+        },
+        {
+            "Category": "旅館",
+            "Area": "大園區",
+            "Name": "住宿點7",
+            "Address": "桃園市龍潭區XX路4號",
+            "Phone": "03-2059133"
+        },
+        {
+            "Category": "特色民宿",
+            "Area": "大溪區",
+            "Name": "住宿點8",
+            "Address": "桃園市新屋區XX路45號",
+            "Phone": "03-2612692"
+        },
+        {
+            "Category": "旅館",
+            "Area": "桃園區",
+            "Name": "住宿點9",
+            "Address": "桃園市桃園區XX路30號",
+            "Phone": "03-2872597"
+        },
+        {
+            "Category": "旅館",
+            "Area": "龍潭區",
+            "Name": "住宿點10",
+            "Address": "桃園市楊梅區XX路50號",
+            "Phone": "03-2547403"
+        },
+        {
+            "Category": "民宿",
+            "Area": "平鎮區",
+            "Name": "住宿點11",
+            "Address": "桃園市平鎮區XX路4號",
+            "Phone": "03-2542304"
+        },
+        {
+            "Category": "民宿",
+            "Area": "大園區",
+            "Name": "住宿點12",
+            "Address": "桃園市楊梅區XX路6號",
+            "Phone": "03-2920565"
+        },
+        {
+            "Category": "旅館",
+            "Area": "平鎮區",
+            "Name": "住宿點13",
+            "Address": "桃園市新屋區XX路44號",
+            "Phone": "03-2576451"
+        },
+        {
+            "Category": "民宿",
+            "Area": "大園區",
+            "Name": "住宿點14",
+            "Address": "桃園市蘆竹區XX路87號",
+            "Phone": "03-2025922"
+        },
+        {
+            "Category": "旅館",
+            "Area": "桃園區",
+            "Name": "住宿點15",
+            "Address": "桃園市大園區XX路27號",
+            "Phone": "03-2212709"
+        },
+        {
+            "Category": "民宿",
+            "Area": "新屋區",
+            "Name": "住宿點16",
+            "Address": "桃園市中壢區XX路90號",
+            "Phone": "03-2199252"
+        },
+        {
+            "Category": "特色民宿",
+            "Area": "蘆竹區",
+            "Name": "住宿點17",
+            "Address": "桃園市新屋區XX路3號",
+            "Phone": "03-2505581"
+        },
+        {
+            "Category": "特色民宿",
+            "Area": "龍潭區",
+            "Name": "住宿點18",
+            "Address": "桃園市龜山區XX路87號",
+            "Phone": "03-2263245"
+        },
+        {
+            "Category": "旅館",
+            "Area": "蘆竹區",
+            "Name": "住宿點19",
+            "Address": "桃園市龜山區XX路86號",
+            "Phone": "03-2119753"
+        },
+        {
+            "Category": "民宿",
+            "Area": "中壢區",
+            "Name": "住宿點20",
+            "Address": "桃園市平鎮區XX路22號",
+            "Phone": "03-2653310"
+        }
+    ]
+}

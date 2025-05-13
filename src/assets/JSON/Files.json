@@ -1,0 +1,366 @@
+{
+    "TotalCount": "100",
+    "MaxPage": "5",
+    "DataList": [
+        {
+            "ID": "123",
+            "Title": "學生手冊",
+            "Content": "提供學校規章制度及相關資訊。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "校務資料",
+            "Create": "教務處",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "student_handbook.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "年度活動計畫",
+            "Content": "本年度學校活動的安排與計劃。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "活動計劃",
+            "Create": "學生活動組",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "annual_activity_plan.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "課程大綱",
+            "Content": "學期課程大綱及學習目標。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "課程資料",
+            "Create": "教務處",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "course_outline.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "圖書館使用指南",
+            "Content": "學校圖書館的使用規則與服務介紹。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "圖書館",
+            "Create": "圖書館",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "library_guide.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "校園安全手冊",
+            "Content": "校園安全指引，保護學生安全。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "安全",
+            "Create": "安全管理部門",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "campus_safety_manual.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "學校地圖",
+            "Content": "學校各建築物位置示意圖。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "地圖",
+            "Create": "總務處",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "school_map.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "體育館使用規則",
+            "Content": "學校體育館的使用規範。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "體育",
+            "Create": "體育處",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "gym_usage_rules.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "校友通訊錄",
+            "Content": "包含歷屆校友聯絡方式的通訊錄。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "校友",
+            "Create": "校友會",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "alumni_directory.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "健康教育資料",
+            "Content": "健康教育相關知識與建議。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "健康教育",
+            "Create": "健康中心",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "health_education_materials.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "緊急聯絡資訊",
+            "Content": "緊急情況下的聯絡方式與應對流程。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "應急",
+            "Create": "安全管理部門",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "emergency_contact_information.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "數位學習平台指南",
+            "Content": "學校數位學習平台的使用說明。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "數位學習",
+            "Create": "資訊中心",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "digital_learning_platform_guide.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "期中考試安排",
+            "Content": "學期期中考試的時間與地點安排。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "考試",
+            "Create": "教務處",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "midterm_exam_schedule.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "學期成績單範本",
+            "Content": "成績單的樣式與填寫說明。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "成績單",
+            "Create": "教務處",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "report_card_template.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "社團活動申請表",
+            "Content": "申請校內社團活動所需的表格。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "社團活動",
+            "Create": "學生活動組",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "club_activity_application_form.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "餐廳菜單",
+            "Content": "學校餐廳的每日菜單。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "餐飲",
+            "Create": "總務處",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "cafeteria_menu.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "獎學金申請指南",
+            "Content": "詳細說明如何申請學校的各類獎學金。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "獎學金",
+            "Create": "學務處",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "scholarship_application_guide.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "校園活動攝影作品",
+            "Content": "記錄校園活動的攝影作品集。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "活動",
+            "Create": "學生活動組",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "campus_activity_photos.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "圖書館新書目錄",
+            "Content": "學校圖書館最新書籍的目錄。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "圖書館",
+            "Create": "圖書館",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "new_books_catalog.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "招生簡章",
+            "Content": "學校最新招生簡章及條件。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "招生",
+            "Create": "招生辦公室",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "admission_brochure.pdf",
+                    "Count": 0
+                }
+            ]
+        },
+        {
+            "ID": "123",
+            "Title": "學生會章程",
+            "Content": "學生會的組織章程與規範。",
+            "CreateAt": "2024-11-06",
+            "UpdateAt": "2024-11-06",
+            "Category": "學生會",
+            "Create": "學生會",
+            "Selected": false,
+            "Count": 0,
+            "FilesList": [
+                {
+                    "ID": "002",
+                    "Name": "student_union_constitution.pdf",
+                    "Count": 0
+                }
+            ]
+        }
+    ]
+}

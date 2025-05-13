@@ -1,0 +1,382 @@
+{
+  "setting": {
+    "WebTitle": "66 屆全國科展",
+    "SideTitle": "National Science Fair"
+  },
+  "menuList": [
+    {
+      "groupName": "大會資訊",
+      "englishName": "Information",
+      "icon": [
+        "fas",
+        "list"
+      ],
+      "items": [
+        {
+          "name": "大會行事曆",
+          "englishName": "Calendar",
+          "icon": [
+            "fas",
+            "calendar-days"
+          ],
+          "path": "/info/calendar"
+        },
+        {
+          "name": "大會組織",
+          "englishName": "Organizations",
+          "icon": [
+            "fas",
+            "people-group"
+          ],
+          "path": "/info/organization"
+        },
+        {
+          "name": "大會標誌",
+          "englishName": "Logo",
+          "icon": [
+            "fas",
+            "image"
+          ],
+          "path": "/info/logo"
+        }
+      ],
+      "ShowItem": false
+    },
+    {
+      "groupName": "大會公告",
+      "englishName": "Announce",
+      "icon": [
+        "fas",
+        "bullhorn"
+      ],
+      "items": [
+        {
+          "name": "最新消息",
+          "englishName": "Latest News",
+          "icon": [
+            "fas",
+            "newspaper"
+          ],
+          "path": "/announce/latestNews"
+        },
+        {
+          "name": "每日花絮",
+          "englishName": "Daily Highlights",
+          "icon": [
+            "fas",
+            "star"
+          ],
+          "path": "/announce/highlights"
+        },
+        {
+          "name": "精彩時刻",
+          "englishName": "Wonderful Moments",
+          "icon": [
+            "fas",
+            "star"
+          ],
+          "path": "/announce/moments"
+        },
+        {
+          "name": "宣傳影片",
+          "englishName": "Publicity Video",
+          "icon": [
+            "fas",
+            "video"
+          ],
+          "path": "/announce/video"
+        }
+      ],
+      "ShowItem": false
+    },
+    {
+      "groupName": "科展競賽",
+      "englishName": "Competition",
+      "icon": [
+        "fas",
+        "address-card"
+      ],
+      "items": [
+        {
+          "name": "日程表",
+          "englishName": "Schedule",
+          "icon": [
+            "fas",
+            "clipboard"
+          ],
+          "path": "/competition/schedule"
+        },
+        {
+          "name": "檔案下載區",
+          "englishName": "Files",
+          "icon": [
+            "fas",
+            "file-lines"
+          ],
+          "path": "/competition/file"
+        },
+        {
+          "name": "66 屆優良指導教師",
+          "englishName": "Excellent Instructor",
+          "icon": [
+            "fas",
+            "chalkboard-user"
+          ],
+          "path": "/competition/excellentInstructor"
+        },
+        {
+          "name": "66 屆特別獎",
+          "englishName": "Award",
+          "icon": [
+            "fas",
+            "award"
+          ],
+          "path": "/competition/award"
+        }
+      ],
+      "ShowItem": false
+    },
+    {
+      "groupName": "科學博覽會",
+      "englishName": "Fair",
+      "icon": [
+        "fas",
+        "school"
+      ],
+      "items": [
+        {
+          "name": "參觀辦法",
+          "englishName": "Visiting Method",
+          "icon": [
+            "fas",
+            "laptop-file"
+          ],
+          "path": "/fair/method"
+        },
+        {
+          "name": "設攤單位",
+          "englishName": "Stall",
+          "icon": [
+            "fas",
+            "store"
+          ],
+          "path": "/fair/stall"
+        },
+        {
+          "name": "主題館介紹",
+          "englishName": "Theme Pavilion",
+          "icon": [
+            "fas",
+            "trophy"
+          ],
+          "path": "/fair/themePavilion"
+        },
+        {
+          "name": "廣播節目表",
+          "englishName": "Radio Program List",
+          "icon": [
+            "fas",
+            "list"
+          ],
+          "path": "/fair/radioProgramList"
+        }
+      ],
+      "ShowItem": false
+    },
+    {
+      "groupName": "典禮資訊",
+      "englishName": "Celebration Information",
+      "icon": [
+        "fas",
+        "circle-info"
+      ],
+      "items": [
+        {
+          "name": "開幕典禮流程",
+          "englishName": "Celebration Opening",
+          "icon": [
+            "fas",
+            "list-ol"
+          ],
+          "path": "/celebration/opening"
+        },
+        {
+          "name": "頒獎典禮流程",
+          "englishName": "AwardProcess",
+          "icon": [
+            "fas",
+            "list-ol"
+          ],
+          "path": "/celebration/awardProcess"
+        },
+        {
+          "name": "開幕典禮LIVE",
+          "englishName": "Opening LIVE",
+          "icon": [
+            "fas",
+            "video"
+          ],
+          "path": "/celebration/openingLIVE"
+        },
+        {
+          "name": "頒獎典禮LIVE",
+          "englishName": "Award LIVE",
+          "icon": [
+            "fas",
+            "video"
+          ],
+          "path": "/celebration/awardLIVE"
+        }
+      ],
+      "ShowItem": false
+    },
+    {
+      "groupName": "周邊活動",
+      "englishName": "Activity",
+      "icon": [
+        "fas",
+        "person-running"
+      ],
+      "items": [
+        {
+          "name": "科展之夜",
+          "englishName": "Fair Night",
+          "icon": [
+            "fas",
+            "moon"
+          ],
+          "path": "/activity/night"
+        },
+        {
+          "name": "科展之夜表演團隊介紹",
+          "englishName": "Performance Team Introduction",
+          "icon": [
+            "fas",
+            "people-group"
+          ],
+          "path": "/activity/performanceTeam"
+        },
+        {
+          "name": "科學之旅",
+          "englishName": "Science Journey",
+          "icon": [
+            "fas",
+            "flask-vial"
+          ],
+          "path": "/activity/scienceJourney"
+        },
+        {
+          "name": "科學之旅報名",
+          "englishName": "Science Journey Registration",
+          "icon": [
+            "fas",
+            "file-signature"
+          ],
+          "path": "https://www.beclass.com/rid=284d8e46669157fac748#google_vignette"
+        },
+        {
+          "name": "與大師有約",
+          "englishName": "Master",
+          "icon": [
+            "fas",
+            "crown"
+          ],
+          "path": "/activity/master"
+        },
+        {
+          "name": "科學教師交流工作坊",
+          "englishName": "Workshop",
+          "icon": [
+            "fas",
+            "people-arrows"
+          ],
+          "path": "/activity/workshop"
+        }
+      ],
+      "ShowItem": false
+    },
+    {
+      "groupName": "服務資訊",
+      "englishName": "Serve",
+      "icon": [
+        "fas",
+        "circle-info"
+      ],
+      "items": [
+        {
+          "name": "連絡我們",
+          "englishName": "Contact Us",
+          "icon": [
+            "fas",
+            "square-phone"
+          ],
+          "path": "/serve/contact"
+        },
+        {
+          "name": "住宿資訊",
+          "englishName": "Accommodation Information",
+          "icon": [
+            "fas",
+            "house-medical-circle-exclamation"
+          ],
+          "path": "/serve/accommodation"
+        },
+        {
+          "name": "美食伴手禮",
+          "englishName": "Gift Information",
+          "icon": [
+            "fas",
+            "gifts"
+          ],
+          "path": "/serve/gift"
+        },
+        {
+          "name": "交通資訊",
+          "englishName": "Traffic Information",
+          "icon": [
+            "fas",
+            "car-side"
+          ],
+          "path": "/serve/traffic"
+        },
+        {
+          "name": "停車場資訊",
+          "englishName": "Parking Information",
+          "icon": [
+            "fas",
+            "square-parking"
+          ],
+          "path": "/serve/parking"
+        },
+        {
+          "name": "周邊交通平面圖",
+          "englishName": "Traffic Floor Plan",
+          "icon": [
+            "fas",
+            "map"
+          ],
+          "path": "/serve/trafficFloorPlan"
+        },
+        {
+          "name": "接駁專車",
+          "englishName": "Shuttle Bus",
+          "icon": [
+            "fas",
+            "van-shuttle"
+          ],
+          "path": "/serve/shuttle"
+        },
+        {
+          "name": "接駁專車路線圖",
+          "englishName": "Shuttle Bus Map",
+          "icon": [
+            "fas",
+            "van-shuttle"
+          ],
+          "path": "/serve/shuttleMap"
+        }
+      ],
+      "ShowItem": false
+    }
+  ]
+}
