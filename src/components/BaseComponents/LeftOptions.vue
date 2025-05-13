@@ -15,6 +15,14 @@ function SearchNewsType(option) {
   props.GetPageData();
   DetailContentShow.value = false;
 }
+// 判斷是否為外部連結
+function ExtraLink(path) {
+  if (/^https?:\/\//.test(path)) {
+    return path
+  } else {
+    return '#' + path
+  }
+}
 </script>
 
 <template>
@@ -26,7 +34,7 @@ function SearchNewsType(option) {
     <div class="w-11/12 text-base xl:text-lg">
       <v-list class="py-0 rounded-lg border">
         <v-list-item class="border-b cursor-pointer hover:bg-gray-300/50 transition-all"
-          v-for="item in props.OptionsList" :href="item.Path">
+          v-for="item in props.OptionsList" :href="ExtraLink(item.Path)">
           {{ t(`menuList.${item.Value}`) }}
         </v-list-item>
       </v-list>

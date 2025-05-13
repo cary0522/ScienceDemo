@@ -1,4 +1,5 @@
 <script setup>
+import Link from './Link.vue';
 import { useI18n } from 'vue-i18n';
 const { t, locale } = useI18n();
 
@@ -10,13 +11,13 @@ const props = defineProps(["MenuList"]);
     <div class="flex flex-wrap w-full 2xl:w-[1512px] justify-start sm:ms-4 2xl:mx-auto items-start">
       <div v-for="item in props.MenuList" class="my-2 mx-auto w-[200px] flex flex-wrap text-gray-700">
         <p class="text-2xl font-black text-center w-full whitespace-pre border-b-4 border-gray-700 pb-2 mx-2">
-          {{ t(`menuList.${item.groupName}`) }}
+          <Link :path="item.path || ''">{{ t(`menuList.${item.groupName}`) }}</Link>
         </p>
         <ul class="mx-auto w-[165px] md:w-[185px] my-2">
           <li v-for="items in item.items" class="text-start">
-            <a :href="items.path" class="hover:text-white hover:font-black">
-              {{ t(`menuList.${items.name}`) }}
-            </a>
+            <Link :path="items.path || ''" class="hover:text-[#4E64A6] hover:font-black">{{
+              t(`menuList.${items.name}`)
+            }}</Link>
           </li>
         </ul>
       </div>
@@ -31,9 +32,9 @@ const props = defineProps(["MenuList"]);
       <p class="m-2">{{ t('footer.科展諮詢服務專線') }}：03-3322101</p>
     </div>
     <div class="flex justify-center w-full text-gray-700">
-      <a class="m-2 hover:text-white hover:font-bold cursor-pointer" href="#">{{ t('報名系統') }}</a>
-      <a class="m-2 hover:text-white hover:font-bold cursor-pointer" href="#">{{ t('評審系統') }}</a>
-      <a class="m-2 hover:text-white hover:font-bold cursor-pointer" href="#">{{ t('管理系統') }}</a>
+      <router-link class="m-2 hover:text-white hover:font-bold cursor-pointer" to="#">{{ t('報名系統') }}</router-link>
+      <router-link class="m-2 hover:text-white hover:font-bold cursor-pointer" to="#">{{ t('評審系統') }}</router-link>
+      <router-link class="m-2 hover:text-white hover:font-bold cursor-pointer" to="#">{{ t('管理系統') }}</router-link>
     </div>
   </div>
 </template>

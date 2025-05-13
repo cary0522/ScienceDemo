@@ -152,9 +152,9 @@ const BatchOperate = function (BatchType) {
             <input type="checkbox" class="border" v-model="element.Selected" />
           </div>
           <div class="min-w-[60px] max-w-[120px] w-1/4 my-2 object-contain flex flex-col justify-center">
-            <a :href="element.path">
-              <img :src="FileImg" alt="" loading="lazy" />
-            </a>
+            <img :src="FileImg" alt="" loading="lazy" />
+            <!-- <router-link :to="element.path">
+            </router-link> -->
           </div>
           <div class="w-2/3 text-black py-4 flex flex-col justify-around">
             <div class="flex flex-wrap" v-for="head in HeaderList">

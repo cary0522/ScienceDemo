@@ -191,8 +191,8 @@ onMounted(() => {
         <div class="flex flex-wrap items-end justify-between w-full">
           <BreadCrumb :-breadcrumb-list="['大會公告', '精彩時刻']" class="w-full"></BreadCrumb>
           <Moments :indexNum="4"></Moments>
-          <a href="/announce/moments"
-            class="bg-[#4E64A6] hover:bg-[#99B3D1] text-white rounded p-4 m-4 cursor-pointer ms-auto">MORE</a>
+          <router-link to="/announce/moments"
+            class="bg-[#4E64A6] hover:bg-[#99B3D1] text-white rounded p-4 m-4 cursor-pointer ms-auto">MORE</router-link>
         </div>
       </div>
       <div
@@ -200,8 +200,8 @@ onMounted(() => {
         <div class="flex flex-wrap items-end justify-between w-full">
           <BreadCrumb :-breadcrumb-list="['大會公告', '每日花絮']" class="w-full"></BreadCrumb>
           <Highlights :indexNum="4"></Highlights>
-          <a href="/announce/highlights"
-            class="bg-[#4E64A6] hover:bg-[#99B3D1] text-white rounded p-4 m-4 cursor-pointer ms-auto">MORE</a>
+          <router-link to="/announce/highlights"
+            class="bg-[#4E64A6] hover:bg-[#99B3D1] text-white rounded p-4 m-4 cursor-pointer ms-auto">MORE</router-link>
         </div>
       </div>
       <div
@@ -209,8 +209,8 @@ onMounted(() => {
         <div class="flex flex-wrap items-end justify-between w-full">
           <BreadCrumb :-breadcrumb-list="['大會公告', '宣傳影片']" class="w-full"></BreadCrumb>
           <Video :index-num="4"></Video>
-          <a href="/announce/video"
-            class="bg-[#4E64A6] hover:bg-[#99B3D1] text-white rounded p-4 m-4 cursor-pointer ms-auto">MORE</a>
+          <router-link to="/announce/video"
+            class="bg-[#4E64A6] hover:bg-[#99B3D1] text-white rounded p-4 m-4 cursor-pointer ms-auto">MORE</router-link>
         </div>
       </div>
     </div>

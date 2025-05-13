@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHistory, createWebHashHistory } from "vue-router";
 import Home from "@/views/Home.vue";
 import Info from "@/views/Info.vue";
 import Announce from "@/views/Announce.vue";
@@ -12,7 +12,8 @@ import TrafficSetting from "@/components/Admin/TrafficSetting.vue";
 
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  // history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(),
   routes: [
     {
       path: "/",
